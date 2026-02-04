@@ -1,6 +1,6 @@
-.
+STUDENT MANAGEMENT SYSTEM | CORE JAVA 
 
-🎓 Student Management System (Core Java)
+🎓 Student Management System | Core Java
 A simple Core Java console-based project that demonstrates fundamental Java concepts such as OOP, classes, objects, methods, and basic data handling.
 This project is suitable for beginners and interview practice.
 
