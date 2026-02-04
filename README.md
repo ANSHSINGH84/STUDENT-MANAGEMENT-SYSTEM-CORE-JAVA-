@@ -81,10 +81,6 @@ Contains business logic for adding, updating, viewing, and deleting students.
 ▶️ How to Run the Project
 
 
-Clone the repository:
-git clone https://github.com/your-username/student-management-system.git
-
-
 
 Navigate to the project folder:
 cd student-management-system
